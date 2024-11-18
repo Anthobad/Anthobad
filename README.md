@@ -11,7 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Anthobad&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anthobad&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthobad&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+# 📊 Roadmap:
+[![roadmap.sh](https://roadmap.sh/card/tall/673b2eb4f20970fd4898e503?variant=dark)](https://roadmap.sh)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anthobad&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
@@ -20,5 +21,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anthobad&icon=8&color=4)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
